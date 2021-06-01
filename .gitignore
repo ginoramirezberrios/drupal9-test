@@ -5,6 +5,7 @@
 /web/themes/contrib/
 /web/profiles/contrib/
 /web/libraries/
+/.tmp/
 
 # Ignore sensitive information
 /web/sites/*/settings.php
